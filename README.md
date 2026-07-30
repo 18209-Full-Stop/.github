@@ -1,5 +1,5 @@
 # ✨ Team 18209 Full Stop
-Welcome to 18209, an innovated and rapidly growing FTC team!
+Welcome to 18209, an innovative and rapidly growing FTC team! <br>
 Visit our <a href="https://18209-full-stop.github.io"> website! </a>
 
 # ✨ Contact us!
